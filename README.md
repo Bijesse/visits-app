@@ -1,7 +1,7 @@
 # Sample Node Application using Docker
 This repository contains a basic application that is intended to run locally on your device and counts the numbers of visitors to the site
 
-The application in this exercise has been build for Docker. It makes use of [Redis](https://hub.docker.com/_/redis) and [Alpine](https://hub.docker.com/_/alpine) images found in the Docker Hub. Follow the instructions below to run the app.
+The application in this exercise has been built for Docker. It makes use of the [Redis](https://hub.docker.com/_/redis) and [Alpine](https://hub.docker.com/_/alpine) images found on the Docker Hub. Follow the instructions below to run the app.
 
 ## Requirements:
 In order to participate in this exercise you will need...
@@ -10,7 +10,10 @@ In order to participate in this exercise you will need...
 * [Docker for Mac](https://www.docker.com/products/docker-desktop)
 
 ## Step 1
-Clone this repository to your local machine using `git clone https://github.com/Bijesse/visits-app`
+Clone this repository to your local machine using 
+```shell
+git clone https://github.com/Bijesse/visits-app
+```
 
 ## Step 2 
 Build and run the app using Docker:
