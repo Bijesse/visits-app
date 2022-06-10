@@ -18,5 +18,5 @@ Build and run the app using Docker:
 docker-compose up
 ```
 
-## Step 2 
+## Step 3
 Run this app in your browser by visiting [http://localhost:8080/](http://localhost:8080/)
